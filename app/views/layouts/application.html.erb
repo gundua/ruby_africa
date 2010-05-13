@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Ruby Africa</title>
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  </head>
+  <body>
+  <nav class="menu">
+    <ul>
+      <li> <a href="#"> Home </a> </li>
+    </ul>
+  </nav>
+  <header>
+    <h1><a href="#">Ruby <span class="shine">Africa</span></a></h1>
+  </header>
+  <section id="main">
+    <section id="content">
+      <div class="notices">
+        <p class="notice"><%= notice %></p>
+        <p class="alert"><%= alert %></p>
+      </div>
+
+      <%= yield %>
+    </section>
+  </section>
+
+  <footer>
+  </footer>
+</body>
+</html>
