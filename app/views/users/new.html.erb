@@ -1,0 +1,7 @@
+<h1>Sign up to become a RubyAfrica member</h1>
+
+<% form_for @user do |f| %>
+  <%= f.label :email_address %>
+  <%= f.text_field :email_address %>
+  <%= f.submit "Sign up" %>
+<% end %>
