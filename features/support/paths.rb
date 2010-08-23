@@ -14,6 +14,9 @@ module NavigationHelpers
     when /the signup page$/i
       new_user_path
 
+#   when /my profile page$/i
+#      user_path
+
     # Add more mappings here.
     # Here is an example that pulls values out of the Regexp:
     #

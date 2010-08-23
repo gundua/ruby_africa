@@ -1,9 +1,11 @@
 Feature: Sign up
-  In order to use rubyafrica users need to signup so they are RubyAfrica
-  members
+  Visitors need to signup to become RubyAfrica members
+
 
   Scenario: Sign up with valid details
   Given I go to the signup page
+
   When I fill in "Email address" with "johnsmith@theagency.com"
-  And I click the signup button
+  And I press "Sign up"
+
   Then I should be a RubyAfrica member

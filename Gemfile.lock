@@ -30,6 +30,8 @@ GEM
     activesupport (3.0.0.rc)
     arel (0.4.0)
       activesupport (>= 3.0.0.beta)
+    authlogic (2.1.6)
+      activesupport
     bson (1.0.4)
     bson_ext (1.0.4)
     builder (2.1.2)
@@ -153,6 +155,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  authlogic (= 2.1.6)
   bson_ext (= 1.0.4)
   capistrano
   capybara
