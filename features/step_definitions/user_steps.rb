@@ -1,4 +1,4 @@
 Then /^I should be a RubyAfrica member$/ do
-  pending # express the regexp above with the code you wish you had
+  User.first.not_nil?.should be_true
 end
 

@@ -1,0 +1,1845 @@
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 21:13:50 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 21:14:40 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 21:15:16 +0200 2010
+  Processing by UsersController#new as HTML
+Completed   in 29ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 21:16:14 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.4ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 21:20:45 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 6.6ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 21:22:53 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (5.0ms)
+Completed   in 10ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 21:25:18 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (5.1ms)
+Completed   in 10ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c702e1028723f3b37000001')}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c702e4428723f3c93000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70310e28723f4e42000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7031ab28723f5219000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7031d728723f5322000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 22:07:29 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (4.8ms)
+Completed   in 10ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 22:08:21 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.6ms)
+Completed 200 OK in 16ms (Views: 14.2ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 22:09:37 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (48.2ms)
+Completed 200 OK in 54ms (Views: 52.9ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 22:10:06 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 15ms (Views: 13.7ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 22:30:37 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 36ms (Views: 34.6ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 22:30:37 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 22:34:22 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 15ms (Views: 13.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 22:34:23 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+Completed   in 1ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7038b228723f7dc4000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7038e328723f7ef8000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70392f28723f01fa000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70392f28723f01fa000002'), "email_address"=>"johnsmit@theagency.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70394728723f028d000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70394728723f028d000002'), "email_address"=>"johnsmit@theagency.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70395228723f02d5000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70395228723f02d5000002'), "email_address"=>"johnsmit@theagency.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70398028723f0445000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70398028723f0445000002'), "email_address"=>"johnsmit@theagency.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70398928723f0484000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70398928723f0484000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7039ba28723f05ca000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7039bb28723f05ca000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703cd728723f196b000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703cd728723f196b000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703cd728723f196b000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703cd728723f196b000004'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ce228723f19be000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ce228723f19be000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ce228723f19be000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ce228723f19be000004'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c702e1028723f3b37000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c702e4428723f3c93000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70310e28723f4e42000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c7031ab28723f5219000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c7031d728723f5322000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c7038b228723f7dc4000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c7038e328723f7ef8000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70392f28723f01fa000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70392f28723f01fa000002')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70394728723f028d000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70394728723f028d000002')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70395228723f02d5000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70395228723f02d5000002')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70398028723f0445000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70398028723f0445000002')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70398928723f0484000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70398928723f0484000002')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c7039ba28723f05ca000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c7039bb28723f05ca000002')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703cd728723f196b000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703cd728723f196b000002')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703cd728723f196b000003')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703cd728723f196b000004')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ce228723f19be000001')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ce228723f19be000002')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ce228723f19be000003')})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ce228723f19be000004')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703dc528723f1f0b000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703dc528723f1f0b000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703dc528723f1f0b000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703dc528723f1f0b000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703dc528723f1f0b000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703dc528723f1f0b000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e2428723f2150000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e2428723f2150000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e2428723f2150000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e2428723f2150000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e2428723f2150000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e2428723f2150000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e4228723f2208000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e4228723f2208000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e4228723f2208000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e4228723f2208000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e4228723f2208000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e4228723f2208000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e4d28723f224b000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e4d28723f224b000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e4d28723f224b000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e4d28723f224b000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e4d28723f224b000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e4d28723f224b000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e9828723f2426000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e9828723f2426000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e9828723f2426000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e9828723f2426000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703e9828723f2426000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703e9828723f2426000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ea128723f2464000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ea128723f2464000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ea128723f2464000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ea128723f2464000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ea128723f2464000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ea128723f2464000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ebb28723f2502000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ebb28723f2502000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ebb28723f2502000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ebb28723f2502000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703ebb28723f2502000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703ebb28723f2502000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703efa28723f2680000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703efa28723f2680000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703efa28723f2680000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703efa28723f2680000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703efa28723f2680000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:_id=>{"$ne"=>BSON::ObjectID('4c703efa28723f2680000003')}, :email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703efa28723f2680000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703f0c28723f26f2000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703f0c28723f26f2000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703f0c28723f26f2000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703f0c28723f26f2000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c703f0c28723f26f2000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:_id=>{"$ne"=>BSON::ObjectID('4c703f0c28723f26f2000003')}, :email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:04:16 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.8ms)
+Completed 200 OK in 16ms (Views: 14.5ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:04:17 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 17ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:04:17 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:04:59 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 15ms (Views: 13.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:04:59 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 9ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:04:59 +0200 2010
+  Processing by UsersController#index as HTML
+Completed   in 6ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:05:53 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 15ms (Views: 13.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:05:53 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Completed   in 7ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:07:26 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 15ms (Views: 13.6ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:07:27 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 8ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:07:27 +0200 2010
+  Processing by UsersController#index as HTML
+Completed   in 6ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:08:04 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 15ms (Views: 13.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:08:04 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Completed   in 10ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:08:27 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 15ms (Views: 13.8ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:08:27 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Completed   in 8ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:09:11 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 15ms (Views: 13.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:09:11 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 10ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:09:11 +0200 2010
+  Processing by UsersController#index as HTML
+Completed   in 6ms
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:09:36 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.7ms)
+Completed 200 OK in 16ms (Views: 14.3ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:09:36 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 9ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:09:36 +0200 2010
+  Processing by UsersController#index as HTML
+Rendered users/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 5ms (Views: 4.1ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:13:08 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 15ms (Views: 14.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:13:08 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 10ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:13:08 +0200 2010
+  Processing by UsersController#index as HTML
+Rendered users/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 4ms (Views: 3.8ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:20:25 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 15ms (Views: 13.8ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:20:25 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 13ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:20:25 +0200 2010
+  Processing by UsersController#index as HTML
+Rendered users/index.html.erb within layouts/application (30.7ms)
+Completed 200 OK in 34ms (Views: 32.9ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c703f0c28723f26f2000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70432828723f401d000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70432828723f401d000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70432828723f401d000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70432828723f401d000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70432828723f401d000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:_id=>{"$ne"=>BSON::ObjectID('4c70432828723f401d000003')}, :email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:22:32 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 17ms (Views: 16.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:22:32 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 22ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:22:32 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70432828723f401d000003')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70446228723f4906000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70446228723f4906000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70446228723f4906000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c70446228723f4906000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70446228723f4906000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:_id=>{"$ne"=>BSON::ObjectID('4c70446228723f4906000003')}, :email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:29:23 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 15ms (Views: 13.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:29:23 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 24ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:29:23 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:32:42 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 15ms (Views: 13.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:32:42 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 8ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:32:42 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"system.indexes"}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"system.indexes"}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"system.indexes"}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"system.indexes"}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:37:14 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 15ms (Views: 13.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:37:14 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70470a28723f59bb000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c70470a28723f59bb000002
+Completed 302 Found in 8ms
+
+
+Started GET "/users/4c70470a28723f59bb000002" for 127.0.0.1 at Sat Aug 21 23:37:14 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c70470a28723f59bb000002"}
+Rendered users/show.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 5ms (Views: 4.0ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:38:00 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (14.7ms)
+Completed 200 OK in 21ms (Views: 19.8ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:38:00 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 8ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:38:00 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"system.indexes"}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:40:32 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 16ms (Views: 14.6ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:40:32 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 37ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:40:32 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:40:53 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 15ms (Views: 13.6ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:40:53 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 18ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:40:53 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:44:36 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 15ms (Views: 13.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:44:36 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 8ms
+
+
+Started GET "/users" for 127.0.0.1 at Sat Aug 21 23:44:36 +0200 2010
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.indexes'].remove({})
+  MONGODB ruby_africa_test['users'].remove({})
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.indexes'].remove({})
+  MONGODB ruby_africa_test['users'].remove({})
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:46:10 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 15ms (Views: 13.6ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:46:10 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70492228723f66f7000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c70492228723f66f7000002
+Completed 302 Found in 30ms
+
+
+Started GET "/users/4c70492228723f66f7000002" for 127.0.0.1 at Sat Aug 21 23:46:10 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c70492228723f66f7000002"}
+Rendered users/show.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 4ms (Views: 3.9ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.indexes'].remove({})
+  MONGODB ruby_africa_test['users'].remove({})
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:46:23 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 15ms (Views: 13.8ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:46:23 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70492f28723f674c000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c70492f28723f674c000002
+Completed 302 Found in 8ms
+
+
+Started GET "/users/4c70492f28723f674c000002" for 127.0.0.1 at Sat Aug 21 23:46:23 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c70492f28723f674c000002"}
+Rendered users/show.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 5ms (Views: 3.9ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.indexes'].remove({})
+  MONGODB ruby_africa_test['users'].remove({})
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:47:23 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 15ms (Views: 13.6ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:47:23 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c70496b28723f68b9000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c70496b28723f68b9000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c70496b28723f68b9000002" for 127.0.0.1 at Sat Aug 21 23:47:23 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c70496b28723f68b9000002"}
+Rendered users/show.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 5ms (Views: 3.9ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.indexes'].remove({})
+  MONGODB ruby_africa_test['users'].remove({})
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Sat Aug 21 23:48:42 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (9.5ms)
+Completed 200 OK in 15ms (Views: 13.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at Sat Aug 21 23:48:42 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7049ba28723f6a93000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c7049ba28723f6a93000002
+Completed 302 Found in 9ms
+
+
+Started GET "/users/4c7049ba28723f6a93000002" for 127.0.0.1 at Sat Aug 21 23:48:42 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c7049ba28723f6a93000002"}
+Rendered users/show.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 4ms (Views: 3.9ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.indexes'].remove({})
+  MONGODB ruby_africa_test['users'].remove({})
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72cf4528723f4f7b000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c72cf4528723f4f7b000001')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72cf4628723f4f7b000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['users'].remove({:_id=>BSON::ObjectID('4c72cf4628723f4f7b000002')})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72cf4628723f4f7b000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:_id=>{"$ne"=>BSON::ObjectID('4c72cf4628723f4f7b000003')}, :email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:43:02 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 59ms (Views: 54.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:43:02 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 11ms
+
+
+Started GET "/users" for 127.0.0.1 at Mon Aug 23 21:43:02 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:44:39 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 17ms (Views: 15.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:44:39 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 46ms
+
+
+Started GET "/users" for 127.0.0.1 at Mon Aug 23 21:44:39 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:47:19 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 18ms (Views: 16.1ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:47:19 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72d04728723f5600000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c72d04728723f5600000002
+Completed 302 Found in 11ms
+
+
+Started GET "/users/4c72d04728723f5600000002" for 127.0.0.1 at Mon Aug 23 21:47:19 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c72d04728723f5600000002"}
+Rendered users/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 6ms (Views: 5.0ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:47:36 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 17ms (Views: 16.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:47:36 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 12ms
+
+
+Started GET "/users" for 127.0.0.1 at Mon Aug 23 21:47:36 +0200 2010
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:48:48 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 18ms (Views: 16.1ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:48:49 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 9ms
+
+
+Started GET "/users" for 127.0.0.1 at Mon Aug 23 21:48:49 +0200 2010
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:49:14 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (14.5ms)
+Completed 200 OK in 21ms (Views: 19.2ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:49:14 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 17ms
+
+
+Started GET "/users" for 127.0.0.1 at Mon Aug 23 21:49:14 +0200 2010
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:50:24 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (12.1ms)
+Completed 200 OK in 18ms (Views: 16.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:50:24 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+Redirected to http://www.example.com/users
+Completed 302 Found in 11ms
+
+
+Started GET "/users" for 127.0.0.1 at Mon Aug 23 21:50:24 +0200 2010
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"system.indexes"}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:56:56 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (12.5ms)
+Completed 200 OK in 49ms (Views: 47.4ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:56:56 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72d28828723f641e000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c72d28828723f641e000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c72d28828723f641e000002" for 127.0.0.1 at Mon Aug 23 21:56:56 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c72d28828723f641e000002"}
+Rendered users/show.html.erb within layouts/application (23.6ms)
+Completed 200 OK in 27ms (Views: 26.0ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:57:11 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 18ms (Views: 16.5ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:57:11 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72d29728723f6482000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c72d29728723f6482000002
+Completed 302 Found in 8ms
+
+
+Started GET "/users/4c72d29728723f6482000002" for 127.0.0.1 at Mon Aug 23 21:57:11 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c72d29728723f6482000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.7ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72d2cc28723f65c7000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72d2cc28723f65c7000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72d2cc28723f65c7000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com", :_id=>{"$ne"=>BSON::ObjectID('4c72d2cc28723f65c7000003')}}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Mon Aug 23 21:58:21 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 20ms (Views: 18.3ms)
+
+
+Started POST "/users" for 127.0.0.1 at Mon Aug 23 21:58:22 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c72d2de28723f662c000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c72d2de28723f662c000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c72d2de28723f662c000002" for 127.0.0.1 at Mon Aug 23 21:58:22 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c72d2de28723f662c000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.6ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>nil}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"testme@bla.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c742c0d28723f58cd000001'), "email_address"=>"testme@bla.com"}])
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c742c0d28723f58cd000002'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c742c0d28723f58cd000003'), "email_address"=>"johnsmith@theagency.com"}])
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com", :_id=>{"$ne"=>BSON::ObjectID('4c742c0d28723f58cd000003')}}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 22:31:10 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 49ms (Views: 47.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 22:31:10 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c742c0e28723f58e4000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c742c0e28723f58e4000002
+Completed 302 Found in 8ms
+
+
+Started GET "/users/4c742c0e28723f58e4000002" for 127.0.0.1 at Tue Aug 24 22:31:10 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c742c0e28723f58e4000002"}
+Rendered users/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 8ms (Views: 7.7ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 22:31:22 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 18ms (Views: 16.3ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 22:31:23 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c742c1b28723f594b000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c742c1b28723f594b000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c742c1b28723f594b000002" for 127.0.0.1 at Tue Aug 24 22:31:23 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c742c1b28723f594b000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.7ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 22:41:48 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 17ms (Views: 15.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 22:41:48 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c742e8c28723f6924000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c742e8c28723f6924000002
+Completed 302 Found in 8ms
+
+
+Started GET "/users/4c742e8c28723f6924000002" for 127.0.0.1 at Tue Aug 24 22:41:48 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c742e8c28723f6924000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.7ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 22:42:32 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 17ms (Views: 15.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 22:42:32 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c742eb828723f6a3a000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c742eb828723f6a3a000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c742eb828723f6a3a000002" for 127.0.0.1 at Tue Aug 24 22:42:32 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c742eb828723f6a3a000002"}
+Rendered users/show.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 9ms (Views: 7.8ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 22:47:28 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.4ms)
+Completed 200 OK in 18ms (Views: 16.2ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 22:47:28 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c742fe028723f7132000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c742fe028723f7132000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c742fe028723f7132000002" for 127.0.0.1 at Tue Aug 24 22:47:28 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c742fe028723f7132000002"}
+Rendered users/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 6ms (Views: 4.7ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 22:52:07 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 18ms (Views: 16.5ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 22:52:07 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7430f728723f7836000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c7430f728723f7836000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c7430f728723f7836000002" for 127.0.0.1 at Tue Aug 24 22:52:07 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c7430f728723f7836000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.6ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 22:55:02 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 8ms (Views: 7.6ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 22:55:02 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 18ms (Views: 16.3ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 22:55:02 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7431a628723f7c7d000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c7431a628723f7c7d000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c7431a628723f7c7d000002" for 127.0.0.1 at Tue Aug 24 22:55:02 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c7431a628723f7c7d000002"}
+Rendered users/show.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 7ms (Views: 6.0ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 22:59:35 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 8ms (Views: 7.4ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 22:59:35 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.7ms)
+Completed 200 OK in 17ms (Views: 15.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 22:59:35 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7432b728723f0549000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c7432b728723f0549000002
+Completed 302 Found in 8ms
+
+
+Started GET "/users/4c7432b728723f0549000002" for 127.0.0.1 at Tue Aug 24 22:59:35 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c7432b728723f0549000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.7ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 23:00:04 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 11ms (Views: 10.0ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 23:00:04 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 16ms (Views: 14.6ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 23:00:04 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c7432d428723f0610000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c7432d428723f0610000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c7432d428723f0610000002" for 127.0.0.1 at Tue Aug 24 23:00:04 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c7432d428723f0610000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.6ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 23:01:39 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 8ms (Views: 7.4ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 23:01:39 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 17ms (Views: 15.7ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 23:01:39 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c74333328723f0875000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c74333328723f0875000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c74333328723f0875000002" for 127.0.0.1 at Tue Aug 24 23:01:39 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c74333328723f0875000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 7ms (Views: 4.6ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 23:02:03 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 8ms (Views: 7.6ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 23:02:03 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 17ms (Views: 15.2ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 23:02:03 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c74334b28723f090f000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c74334b28723f090f000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c74334b28723f090f000002" for 127.0.0.1 at Tue Aug 24 23:02:03 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c74334b28723f090f000002"}
+Rendered users/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 6ms (Views: 4.8ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 23:02:33 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 24ms (Views: 7.5ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 23:02:33 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (22.3ms)
+Completed 200 OK in 28ms (Views: 26.4ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 23:02:33 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c74336928723f09d5000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c74336928723f09d5000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c74336928723f09d5000002" for 127.0.0.1 at Tue Aug 24 23:02:33 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c74336928723f09d5000002"}
+Rendered users/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 9ms (Views: 8.1ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 23:09:26 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 8ms (Views: 7.6ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 23:09:26 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 17ms (Views: 15.2ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 23:09:26 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c74350628723f1411000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c74350628723f1411000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c74350628723f1411000002" for 127.0.0.1 at Tue Aug 24 23:09:26 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c74350628723f1411000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.7ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 23:14:05 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 8ms (Views: 7.4ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 23:14:05 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (12.1ms)
+Completed 200 OK in 18ms (Views: 16.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 23:14:05 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c74361d28723f1a8c000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c74361d28723f1a8c000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c74361d28723f1a8c000002" for 127.0.0.1 at Tue Aug 24 23:14:05 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c74361d28723f1a8c000002"}
+Rendered users/show.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 5ms (Views: 4.6ms)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 23:16:15 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 10ms (Views: 8.9ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 23:16:15 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (10.9ms)
+Completed 200 OK in 19ms (Views: 17.1ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 23:16:15 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c74369f28723f1dab000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c74369f28723f1dab000002
+Completed 302 Found in 7ms
+
+
+Started GET "/users/4c74369f28723f1dab000002" for 127.0.0.1 at Tue Aug 24 23:16:15 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c74369f28723f1dab000002"}
+Rendered users/show.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 5ms (Views: 4.6ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:buildinfo=>1}, {}).limit(-1)
+  MONGODB admin['$cmd'].find({:ismaster=>1}, {}).limit(-1)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+  MONGODB ruby_africa_test['$cmd'].find({:drop=>"users"}, {}).limit(-1)
+
+
+Started GET "/" for 127.0.0.1 at Tue Aug 24 23:22:44 +0200 2010
+  Processing by FrontendsController#home as HTML
+Rendered frontends/home.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 8ms (Views: 7.5ms)
+  MONGODB ruby_africa_test['system.namespaces'].find({}, {})
+
+
+Started GET "/users/new" for 127.0.0.1 at Tue Aug 24 23:22:44 +0200 2010
+  Processing by UsersController#new as HTML
+Rendered users/new.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 18ms (Views: 16.1ms)
+
+
+Started POST "/users" for 127.0.0.1 at Tue Aug 24 23:22:44 +0200 2010
+  Processing by UsersController#create as HTML
+  Parameters: {"commit"=>"Sign up", "_snowman"=>"☃", "user"=>{"email_address"=>"johnsmith@theagency.com"}}
+  MONGODB ruby_africa_test['$cmd'].find({"count"=>"users", "query"=>{:email_address=>"johnsmith@theagency.com"}, "fields"=>nil}, {}).limit(-1)
+  MONGODB ruby_africa_test['users'].insert([{"_id"=>BSON::ObjectID('4c74382428723f26e8000002'), "email_address"=>"johnsmith@theagency.com"}])
+Redirected to http://www.example.com/users/4c74382428723f26e8000002
+Completed 302 Found in 8ms
+
+
+Started GET "/users/4c74382428723f26e8000002" for 127.0.0.1 at Tue Aug 24 23:22:44 +0200 2010
+  Processing by UsersController#show as HTML
+  Parameters: {"id"=>"4c74382428723f26e8000002"}
+Rendered users/show.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 5ms (Views: 4.8ms)
+  MONGODB ruby_africa_test['users'].find({}, {}).limit(-1)
