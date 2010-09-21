@@ -10,6 +10,13 @@ gem "mongoid", "2.0.0.beta.18"
 gem "bson_ext", "1.0.4"
 # Use unicorn as the web server
  gem 'unicorn'
+gem 'devise'
+#group :cucumber do
+#  gem 'capybara'
+#  gem 'cucumber-rails'
+#  gem 'cucumber'
+#  gem 'rspec-rails'
+#end
 
 # Deploy with Capistrano
 # gem 'capistrano'
