@@ -7,10 +7,31 @@
   <%= csrf_meta_tag %>
 </head>
 <body>
+	
+	<header>
+		<H1>OH MY FUCKING GOD! RUBY AFRICA IS HERE!</H1>
+	</header>
+	<nav>
+		<ul>
+			<li><a href="#">I</a></li>
+			<li><a href="#">Am</a></li>
+			<li><a href="#">Playing</a></li>
+			<li><a href="#">Around</a></li>
+			<% if user_signed_in? %>
+			<li><%= link_to 'Logout', destroy_user_session_path %></li>
+			<% else %>
+			  <li><%= link_to 'Login', new_user_session_path %>></li>
+			<% end %>
+		</ul>
+	</nav>
+
+		
+	<section id="alert">
        <p class="notice"><%= notice %></p>
        <p class="alert"><%= alert %></p>
-
-<%= yield %>
-
+	</section>
+<div id="mainDiv">
+	<%= yield %>
+</div>
 </body>
 </html>
